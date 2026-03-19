@@ -1,5 +1,5 @@
 #Saludo#
 
-Hola Mundo ;_;
+Hola Mundo :)
 
 #ESTO ES UN TEST DE GIT/GITHUB#
